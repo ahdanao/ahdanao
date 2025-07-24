@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-danao-715485361/)
 
-4th year Computer Engineering student with a passion for cybersecurity. I spend my time sharpening practical skills through hands-on labs and real-world tools.
+4th year Computer Engineering student with a passion for cybersecurity. I spend most of my time enhancing my knowledge and skills in the field.
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🎯 Current Focus
 
-Studying penetration testing via Hack The Box Academy and applying concepts through guided labs and CTF-style challenges.
+Studying penetration testing via Hack The Box Academy and applying concepts through hands-on labs and CTF-style challenges.
 
 ![HTB](https://img.shields.io/badge/-Hack_The_Box_Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
