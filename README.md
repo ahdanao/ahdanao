@@ -8,25 +8,23 @@
 
 ## 💻 Skills & Tools
 
-### Network Scanning & Enumeration
-![Nmap](https://img.shields.io/badge/-Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-3E8E41?style=for-the-badge&logo=OpenVAS&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+### Network Scanning & Enumeration  
+![Nmap](https://img.shields.io/badge/-Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
-### Web App Security
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF7139?style=for-the-badge&logo=PortSwigger&logoColor=white)
+### Vulnerability Assessment  
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-3E8E41?style=for-the-badge&logo=OpenVAS&logoColor=white) ![Nessus](https://img.shields.io/badge/-Nessus-00A3E0?style=for-the-badge&logoColor=white)
 
-### Exploitation & Privilege Escalation
+### Web App Security  
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF7139?style=for-the-badge&logo=PortSwigger&logoColor=white)
+
+### Exploitation & Privilege Escalation  
 ![Metasploit](https://img.shields.io/badge/-Metasploit_Framework-000000?style=for-the-badge&logo=Metasploit&logoColor=white)
 
-### Operating Systems
-![Parrot OS](https://img.shields.io/badge/-Parrot_OS-1dd05d?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Operating Systems  
+![Parrot OS](https://img.shields.io/badge/-Parrot_OS-1dd05d?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Cracking Tools
-![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
-![Hashcat](https://img.shields.io/badge/-Hashcat-1A1A1A?style=for-the-badge&logoColor=white)
+### Cracking Tools  
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-8B0000?style=for-the-badge&logoColor=white) ![Hashcat](https://img.shields.io/badge/-Hashcat-1A1A1A?style=for-the-badge&logoColor=white)
 
 ---
 
