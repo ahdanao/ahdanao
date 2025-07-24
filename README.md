@@ -14,9 +14,6 @@
 ### Vulnerability Assessment  
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-3E8E41?style=for-the-badge&logo=OpenVAS&logoColor=white) ![Nessus](https://img.shields.io/badge/-Nessus-00A3E0?style=for-the-badge&logoColor=white)
 
-### Web App Security  
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF7139?style=for-the-badge&logo=PortSwigger&logoColor=white)
-
 ### Exploitation & Privilege Escalation  
 ![Metasploit](https://img.shields.io/badge/-Metasploit_Framework-000000?style=for-the-badge&logo=Metasploit&logoColor=white)
 
