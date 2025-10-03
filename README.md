@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 Studying penetration testing via Hack The Box Academy and applying concepts through hands-on labs and CTF-style challenges.
 
@@ -33,7 +33,7 @@ Studying penetration testing via Hack The Box Academy and applying concepts thro
 
 ---
 
-## ✅ Skills Gained from HTB Academy
+## Skills Gained from HTB Academy
 
 - Host discovery, port scanning, and service enumeration with Nmap  
 - Manual enumeration of services (FTP, SMB, MySQL)  
